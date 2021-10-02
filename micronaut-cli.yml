@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pirata
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, gradle, kotest, kotlin, kotlin-application, logback, readme, shade, yaml]
